@@ -1,4 +1,4 @@
-## 👋 Hello!
+<h1 align="center">Hi 👋, I'm Vaibhav Ranjan</h1>
 
 🎓 &nbsp;**I'm a CSE student** at *G.B. Pant Govt. Engineering College*.  
 📍 &nbsp;Currently exploring **Machine Learning** and building **full-stack apps with Next.js**.
