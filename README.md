@@ -34,7 +34,7 @@
 <div align="center">
 
   <!-- GitHub Streak Stats -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=VAIBHAVranjan1&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=VAIBHAVranjan1&theme=dark" width="400" alt="GitHub Streak Stats" />
 
   <!-- LeetCode Stats Card -->
   <a href="https://leetcode.com/u/NishantKumar5/">
